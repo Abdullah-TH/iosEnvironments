@@ -28,7 +28,7 @@ So, to name this new target to something useful you have to rename the following
 		`project_name Dev.plist`
 		- Now because of the renaming steps above, the link between the 
 		new target and the new .plist file is broken. To fix it:
-			* In the **project navigator panel** select your project.
+			* In the **project navigator panel** select the target `producet_name DEV`.
 			* Select **Build Settings** tab.
 			* Under the **Packaging** section, select 
 			**info.plist File** without expanding the row.
